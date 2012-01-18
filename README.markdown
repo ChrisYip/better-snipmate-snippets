@@ -25,3 +25,8 @@ Thanks!
 TODO
 ----
 * License
+
+Change log
+----
+
+1. Fix bugs
